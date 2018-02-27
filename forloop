@@ -1,0 +1,12 @@
+#include<iostream>
+int main()
+{
+	for(int index = 0;index != 10;index++)
+	{
+	std::cout<<index<<std::endl;
+	std::cout<<"all done";
+	}
+	
+	
+		return 0;
+}
